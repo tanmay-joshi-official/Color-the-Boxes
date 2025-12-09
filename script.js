@@ -1,4 +1,3 @@
-// Method 2 (Use this)
 console.log("Hello!!")
 let box = document.getElementsByClassName("box");
 function random_Color(){
@@ -11,3 +10,4 @@ Array.from(box).forEach(e=>{
     e.style.backgroundColor = random_Color()
     e.style.color = random_Color()
 })
+
