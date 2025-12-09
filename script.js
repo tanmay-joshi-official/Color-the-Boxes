@@ -1,3 +1,4 @@
+console.log("Script is running")
 let box = document.getElementsByClassName("box");
 function random_Color(){
     let v1 = Math.ceil(Math.random()* 255);
@@ -9,5 +10,6 @@ Array.from(box).forEach(e=>{
     e.style.backgroundColor = random_Color()
     e.style.color = random_Color()
 })
+
 
 
