@@ -11,6 +11,10 @@ A fun JavaScript mini-project where each box is automatically assigned a random 
 
 ---
 
+## 🖼️ Preview
+[Color the Boxes Preview](https://github.com/user-attachments/assets/1e23aabd-91aa-427e-a604-044f91bfcd1e)
+
+---
 ## 🧠 How It Works
 - All elements with the class "box" are selected  
 - A function generates random RGB values  
@@ -19,10 +23,6 @@ A fun JavaScript mini-project where each box is automatically assigned a random 
 
 ---
 
-## 🖼️ Preview
-[Color the Boxes Preview](https://github.com/user-attachments/assets/1e23aabd-91aa-427e-a604-044f91bfcd1e)
-
----
 
 ## 🏁 Conclusion
 This mini project is a simple yet effective way to explore how JavaScript interacts with the DOM. By dynamically generating colors and applying them to elements, beginners can clearly understand the power of scripting in enhancing user interfaces. It's a quick, visual, and fun project to strengthen your basics.
