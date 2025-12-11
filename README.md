@@ -6,8 +6,7 @@ A fun JavaScript mini-project where each box is automatically assigned a random 
 
 ## 🚀 Features
 - Random RGB colors applied to each box  
-- Both background and text colors change  
-- Simple and clean UI  
+- Both background and text colors change
 - Pure HTML, CSS, and JavaScript  
 
 ---
