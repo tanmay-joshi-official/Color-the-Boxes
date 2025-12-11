@@ -20,7 +20,7 @@ A fun JavaScript mini-project where each box is automatically assigned a random 
 ---
 
 ## 🖼️ Preview
-Open the index.html file in your browser to see the boxes get colored automatically.
+[Color the Boxes Preview](https://github.com/user-attachments/assets/1e23aabd-91aa-427e-a604-044f91bfcd1e)
 
 ---
 
